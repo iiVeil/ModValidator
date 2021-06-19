@@ -22,8 +22,11 @@ The base config. Stored at `GameDir/BepInEx/config/ModValidator`
 > If you would like to create a mod whitelist of your mods, The list of all of your mod names is printed into the debug console on game load. **Make sure the spelling and capitalization is exact**.
 
 `kickifMissingValidator` is a true/false that tells the server to kick a player if they are missing ModValidator.
+
 `whitelistedMods` is a list of comma,seperated,mods **NO SPACES IN THIS LIST**.
+
 `blacklistedMods` is a list of comma,seperated,mods **NO SPACES IN THIS LIST**.
+
 `requiredMods` is a list of comma,seperated,mods **NO SPACES IN THIS LIST**.
 
 ## Example Config
