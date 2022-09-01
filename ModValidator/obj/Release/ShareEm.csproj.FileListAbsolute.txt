@@ -1,0 +1,4 @@
+C:\Users\zchue\Desktop\Muck Modding\Mods\ShareEm\obj\Release\ShareEm.csproj.AssemblyReference.cache
+C:\Users\zchue\Desktop\Muck Modding\Mods\ShareEm\obj\Release\ShareEm.csproj.CoreCompileInputs.cache
+C:\Users\zchue\Desktop\Muck Modding\Mods\ShareEm\Package\Plugins\ShareEm.dll
+C:\Users\zchue\Desktop\Muck Modding\Mods\ShareEm\obj\Release\ShareEm.dll

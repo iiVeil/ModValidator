@@ -1,0 +1,5 @@
+D:\SteamLibrary\steamapps\common\Muck\MuckTemplate\obj\Release\DataHead-Muck-Template.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\Muck\MuckTemplate\obj\Release\DataHead-Muck-Template.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\Muck\MuckTemplate\Package\plugins\$safeprojectname$\$safeprojectname$.dll
+D:\SteamLibrary\steamapps\common\Muck\MuckTemplate\Package\plugins\ChatCommands\ChatCommands.dll
+D:\SteamLibrary\steamapps\common\Muck\MuckTemplate\obj\Release\ChatCommands.dll

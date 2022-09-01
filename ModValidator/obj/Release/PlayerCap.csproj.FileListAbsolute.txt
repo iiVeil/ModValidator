@@ -1,0 +1,9 @@
+D:\SteamLibrary\steamapps\common\Muck\BepInEx\plugins\PlayerCap\PlayerCap.dll
+C:\Users\zchue\Desktop\Muck Modding\Mods\SaveSystem\obj\Release\PlayerCap.csproj.AssemblyReference.cache
+C:\Users\zchue\Desktop\Muck Modding\Mods\SaveSystem\obj\Release\PlayerCap.csproj.CoreCompileInputs.cache
+C:\Users\zchue\Desktop\Muck Modding\Mods\SaveSystem\Package\Plugins\Unity.TextMeshPro.dll
+C:\Users\zchue\Desktop\Muck Modding\Mods\SaveSystem\obj\Release\PlayerCap.csproj.CopyComplete
+C:\Users\zchue\Desktop\Muck Modding\Mods\SaveSystem\Package\Plugins\Assembly-CSharp-firstpass_publicized.dll
+C:\Users\zchue\Desktop\Muck Modding\Mods\SaveSystem\Package\Plugins\Assembly-CSharp_publicized.dll
+C:\Users\zchue\Desktop\Muck Modding\Mods\SaveSystem\Package\Plugins\ChunkyLobbies.dll
+C:\Users\zchue\Desktop\Muck Modding\Mods\SaveSystem\obj\Release\ChunkyLobbies.dll

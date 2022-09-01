@@ -1,0 +1,4 @@
+C:\Users\zchue\Desktop\Muck Modding\Mods\ModValidator\Package\Plugins\ModValidator.dll
+C:\Users\zchue\Desktop\Muck Modding\Mods\ModValidator\obj\Release\ModValidator.csproj.AssemblyReference.cache
+C:\Users\zchue\Desktop\Muck Modding\Mods\ModValidator\obj\Release\ModValidator.csproj.CoreCompileInputs.cache
+C:\Users\zchue\Desktop\Muck Modding\Mods\ModValidator\obj\Release\ModValidator.dll

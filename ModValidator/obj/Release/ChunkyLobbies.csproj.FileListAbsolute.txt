@@ -1,0 +1,8 @@
+C:\Users\zchue\Desktop\Muck Modding\Mods\SaveSystem\Package\Plugins\ChunkyLobbies.dll
+C:\Users\zchue\Desktop\Muck Modding\Mods\SaveSystem\Package\Plugins\Assembly-CSharp-firstpass_publicized.dll
+C:\Users\zchue\Desktop\Muck Modding\Mods\SaveSystem\Package\Plugins\Assembly-CSharp_publicized.dll
+C:\Users\zchue\Desktop\Muck Modding\Mods\SaveSystem\Package\Plugins\Unity.TextMeshPro.dll
+C:\Users\zchue\Desktop\Muck Modding\Mods\SaveSystem\obj\Release\ChunkyLobbies.csproj.AssemblyReference.cache
+C:\Users\zchue\Desktop\Muck Modding\Mods\SaveSystem\obj\Release\ChunkyLobbies.csproj.CoreCompileInputs.cache
+C:\Users\zchue\Desktop\Muck Modding\Mods\SaveSystem\obj\Release\ChunkyLobbies.csproj.CopyComplete
+C:\Users\zchue\Desktop\Muck Modding\Mods\SaveSystem\obj\Release\ChunkyLobbies.dll

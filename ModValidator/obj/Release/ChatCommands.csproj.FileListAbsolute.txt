@@ -1,0 +1,4 @@
+D:\SteamLibrary\steamapps\common\Muck\MuckTemplate\Package\plugins\ChatCommands\ChatCommands.dll
+D:\SteamLibrary\steamapps\common\Muck\MuckTemplate\obj\Release\ChatCommands.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\Muck\MuckTemplate\obj\Release\ChatCommands.dll
+D:\SteamLibrary\steamapps\common\Muck\MuckTemplate\obj\Release\ChatCommands.csproj.AssemblyReference.cache

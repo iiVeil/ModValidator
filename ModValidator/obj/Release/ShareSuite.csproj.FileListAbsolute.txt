@@ -1,0 +1,4 @@
+C:\Users\zchue\Desktop\Muck Modding\Mods\ShareSuite\obj\Release\ShareSuite.csproj.AssemblyReference.cache
+C:\Users\zchue\Desktop\Muck Modding\Mods\ShareSuite\obj\Release\ShareSuite.csproj.CoreCompileInputs.cache
+C:\Users\zchue\Desktop\Muck Modding\Mods\ShareSuite\Package\Plugins\ShareSuite.dll
+C:\Users\zchue\Desktop\Muck Modding\Mods\ShareSuite\obj\Release\ShareSuite.dll
