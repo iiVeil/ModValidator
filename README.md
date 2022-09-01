@@ -2,7 +2,7 @@
 Mod Validator is a mod to easily create required, blacklisted, or require an entire list of mods. 
 
 ## Relevant Projects
-This mod relies on **PacketHelper** which is a packet library I created, it can be found https://github.com/iiVeil/PacketHelper
+This mod relies on **PacketHelper** which is a packet library I created, it can be found here https://github.com/iiVeil/PacketHelper
 
 ## Creating your config
 The base config. Stored at `GameDir/BepInEx/config/ModValidator`
