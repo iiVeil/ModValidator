@@ -5,7 +5,7 @@ Mod Validator is a mod to easily create required, blacklisted, or require an ent
 ## Creating your config
 The base config. Stored at `GameDir/BepInEx/config/ModValidator`
 
-> I'm retarded and don't know how to update a config, if you are updating there will be a new config with the version tag just edit the highest version
+> I'm new and don't know how to update a config, if you are updating there will be a new config with the version tag just edit the highest version
 
 **The only config that matters is the server hosts**
 
